@@ -1,6 +1,6 @@
 # ETL-ML-Pipeline
 
-Project to classify messages that are received during disasters & emergency.
+This is a Project to classify messages that are received during disasters & emergencies.
 The project is part of Udacity's DS Nano Degree program where data is provided by Figure Eight. There are 36 pre-defined
 categories for classyfying the messages.
 
